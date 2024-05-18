@@ -8,9 +8,15 @@
 - https://t.me/AirDropFamilyIDN
 
 ```
-git clone https://github.com/AirDropFamilyIDN/finulab.git
-cd finulab
+git clone https://github.com/AirDropFamilyIDN/tonlama.git
+cd tonlama
 npm install
 node index.js
 
 ```
+# How to getting address wallet in your account:
+1. Click "Dashboard" in home
+2. Click "Copy Referral Link"
+3. Your address start with "0:xxx"
+example : https://tonlama.com?ref=0:6ca38e7c9ton4d28d5lama6f7f23memek85e230150ni1
+- and the address is "0:6ca38e7c9ton4d28d5lama6f7f23memek85e230150ni1"
